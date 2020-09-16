@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8c3388777d4fc0508f00592230f7608",
+    "revision": "ea6ebd4c2a4129ef34e5d742628fb238",
     "url": "/continentbook/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/continentbook/static/css/2.99a5358a.chunk.css"
   },
   {
-    "revision": "68c92ef27a685c06ebc1",
+    "revision": "0e6c935268e3d37d9eb5",
     "url": "/continentbook/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/continentbook/static/js/2.47fa6a53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68c92ef27a685c06ebc1",
-    "url": "/continentbook/static/js/main.584e8da1.chunk.js"
+    "revision": "0e6c935268e3d37d9eb5",
+    "url": "/continentbook/static/js/main.027757c2.chunk.js"
   },
   {
     "revision": "2922b7e83ef69d9d815a",
