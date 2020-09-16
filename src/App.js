@@ -23,7 +23,7 @@ function App() {
         <Layout>
           <Layout.Header style={{ height: "10vh", textAlign: "center" }}><h1 style={{ color: "red", marginTop: "15px" }}><b>GLOBAL DETAILS</b></h1></Layout.Header>
           <Layout.Content style={{textAlign:"center"}}>
-            <Route exact path="/" component={Continents} />
+            <Route exact path="/continentbook" component={Continents} />
             <Route exact path="/:code/countries" component={Countries} />
           </Layout.Content>
         </Layout>
