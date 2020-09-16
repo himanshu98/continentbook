@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/continentbook/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/continentbook/static/js/main.584e8da1.chunk.js",
+    "main.js.map": "/continentbook/static/js/main.584e8da1.chunk.js.map",
+    "runtime-main.js": "/continentbook/static/js/runtime-main.fd030d13.js",
+    "runtime-main.js.map": "/continentbook/static/js/runtime-main.fd030d13.js.map",
+    "static/css/2.99a5358a.chunk.css": "/continentbook/static/css/2.99a5358a.chunk.css",
+    "static/js/2.47fa6a53.chunk.js": "/continentbook/static/js/2.47fa6a53.chunk.js",
+    "static/js/2.47fa6a53.chunk.js.map": "/continentbook/static/js/2.47fa6a53.chunk.js.map",
+    "index.html": "/continentbook/index.html",
+    "precache-manifest.32d3b3d0f569c0932eb57587619fdb33.js": "/continentbook/precache-manifest.32d3b3d0f569c0932eb57587619fdb33.js",
+    "service-worker.js": "/continentbook/service-worker.js",
+    "static/css/2.99a5358a.chunk.css.map": "/continentbook/static/css/2.99a5358a.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/continentbook/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.47fa6a53.chunk.js.LICENSE.txt": "/continentbook/static/js/2.47fa6a53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd030d13.js",
+    "static/css/2.99a5358a.chunk.css",
+    "static/js/2.47fa6a53.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.584e8da1.chunk.js"
+  ]
+}
